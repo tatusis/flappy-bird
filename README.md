@@ -2,6 +2,8 @@
 
 Another version of the FlappyBird game developed in python with pygame
 
+![image](/docs/images/flappy_bird.png "FlappyBird")
+
 ## Start here
 
 1. You need to have python installed (Version 3.13+). Just check the version with the following command:
