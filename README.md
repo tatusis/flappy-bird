@@ -1,4 +1,4 @@
-# Pacman
+# FlappyBird
 
 Another version of the FlappyBird game developed in python with pygame
 
