@@ -1,0 +1,7 @@
+[project]
+
+name = "flappy-bird"
+version = "1.0.0"
+description = "Another version of the FlappyBird game developed in python with pygame"
+requires-python = ">=3.13"
+license = { file = "LICENSE" }
